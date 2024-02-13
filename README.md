@@ -5,10 +5,11 @@ This is the future home for the **Ribosomal Operon Database (ROD)**.  It is stil
 ## Updates 13.02.2023 
 ### ROD v0.4
 - **Golden ROD** is born. 69k glorious operons from 11k genomes in their full length! More stats coming...  
+- Fasta an a Tibble in .rds format 
 
-
+---
 ### Old stuff
-(Early February 2024) The first version of the database has been uploaded [ROD v0.3](./ROD_v0.3.fasta.gz). For now, it is a fasta file with ribosomal sequences, and all the info is in the header. This version contains a set of **near**-full-length ribosomal operons. It contains 104k operons, representing 16k genomes fished from 35k downloaded from NCBI. The operons span at least 4000 bp. But some lack the beginning of 18S others the end of 28S (and sadly some lack both). 
+- *(Early February 2024)* The first version of the database has been uploaded [ROD v0.3](./ROD_v0.3.fasta.gz). For now, it is a fasta file with ribosomal sequences, and all the info is in the header. This version contains a set of **near**-full-length ribosomal operons. It contains 104k operons, representing 16k genomes fished from 35k downloaded from NCBI. The operons span at least 4000 bp. But some lack the beginning of 18S others the end of 28S (and sadly some lack both). 
 -  The plan for the next release (nicknamed **v0.4 GoldenROD**) is to remove lacking the beginning or the end. 
 The initial analysis of ROD seems to indicate that about 33% of the operons are missing portions in either '3 or '5. The updated number of full-length operons is 69K from 12K genome.
 ***
@@ -39,9 +40,6 @@ Overview of genomes in NCBI as of Oct. 16 2023
 ```
 
 ***
-## MORE TO COME! 
-### Golden Rod v.0.4
-
 
 ![](./Images/ROD.png)
 
