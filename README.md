@@ -1,7 +1,7 @@
 #  Ribosomal Operon Database (ROD)
 
 # Updates 13.02.2023 
-**Golden ROD** is born. 69k glorious operons in their full length! 
+**Golden ROD** is born. 69k glorious operons from 11k genomes in their full length! 
 
 
 # Old stuff
