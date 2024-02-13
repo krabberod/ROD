@@ -5,13 +5,14 @@ This is the future home for the **Ribosomal Operon Database (ROD)**.
 ## Data 
 The main source for data is the genome assemblies from NCBI: 
 ```
+# To download the meta data: 
 rsync -t -v rsync://ftp.ncbi.nlm.nih.gov/genomes/ASSEMBLY_REPORTS/assembly_summary_genbank.txt .
 ```
 
-Overview of genomes assemblies as of Oct. 16 2023
+Overview of genomes in NCBI as of Oct. 16 2023
 
 ```
-##  See ftp://ftp.ncbi.nlm.nih.gov/genomes/README_assembly_summary.txt for a description of the columns in this file.
+##  See ftp://ftp.ncbi.nlm.nih.gov/genomes/README_assembly_summary.txt
 ## This is from column 25: 
   16538 archaea
 1779617 bacteria
