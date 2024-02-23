@@ -2,10 +2,13 @@
 
 This is the future home for the **Ribosomal Operon Database (ROD)**.  It is still in it's early stages and there are bound to be some error
 
+## Updates 23.02.2023
+- Plans for the next version (nicknamed **ROD Stewart**): update and clean some of the taxonomy and provide more statistics.
+- We also have plans for testing different clustering strategies to see how real Operons when treated with common clustering approaches used in many meatbarcoding studies. 
 ## Updates 13.02.2023 
 ### ROD v0.4
 - **Golden ROD** is born. 69k glorious operons from 11k genomes in their full length! More stats coming...  
-- Fasta an a Tibble in .rds format 
+- Fasta and a Tibble in .rds format 
 
 ---
 ### Old stuff
