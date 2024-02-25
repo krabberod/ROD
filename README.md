@@ -7,7 +7,7 @@ This is the future home for the **Ribosomal Operon Database (ROD)**.  It is stil
 - We also have plans for testing different clustering strategies to see how real Operons when treated with common clustering approaches used in many meatbarcoding studies. 
 ## Updates 13.02.2023 
 ### ROD v0.4
-- **Golden ROD** is born. 69k glorious operons from 11k genomes in their full length! More stats coming...  
+- **Golden ROD** is born. 69k glorious whole operons from 11k genomes in their full length! More stats coming...  
 - Fasta and a Tibble in .rds format 
 
 ---
