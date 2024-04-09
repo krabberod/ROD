@@ -2,6 +2,10 @@
 
 This is the future home for the **Ribosomal Operon Database (ROD)**.  It is still in its early stages and there are bound to be some error
 
+Current release is ROD v0.4.1.1 - Golden Rod
+[![DOI](https://zenodo.org/badge/730400345.svg)](https://zenodo.org/doi/10.5281/zenodo.10948219)
+
+---
 ## Updates 23.02.2023
 - Plans for the next version (nicknamed **ROD Stewart**): update and clean some of the taxonomy and provide more statistics.
 - We also have plans for testing different clustering strategies to see how real Operons when treated with common clustering approaches used in many meatbarcoding studies. 
