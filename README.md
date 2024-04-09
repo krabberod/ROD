@@ -1,14 +1,13 @@
 #  Ribosomal Operon Database (ROD)
 
-This is the future home for the **Ribosomal Operon Database (ROD)**.  It is still in its early stages and there are bound to be some error
-
-Current release is ROD v0.4.1.1 - Golden Rod  
+This is the future home for the **Ribosomal Operon Database (ROD)**.  It is still in its early stages and there are bound to be some errors.  
+The current release is ROD v0.4.1.1 - Golden Rod
 [![DOI](https://zenodo.org/badge/730400345.svg)](https://zenodo.org/doi/10.5281/zenodo.10948219)
 
 ---
 ## Updates 23.02.2023
 - Plans for the next version (nicknamed **ROD Stewart**): update and clean some of the taxonomy and provide more statistics.
-- We also have plans for testing different clustering strategies to see how real Operons when treated with common clustering approaches used in many meatbarcoding studies. 
+- We also have plans for testing different clustering strategies to see how real Operons when treated with common clustering approaches used in many metabarcoding studies. 
 ## Updates 13.02.2023 
 ### ROD v0.4
 - **Golden ROD** is born. 69k glorious whole operons sequence variants from 11k genomes in their full length! More stats coming...  
@@ -22,7 +21,7 @@ The initial analysis of ROD seems to indicate that about 33% of the operons are 
 ***
 
 ## Data 
-The main source for data are the genome assemblies from NCBI: 
+The main source for data is the genome assemblies from NCBI: 
 ```
 # To download the meta data: 
 rsync -t -v rsync://ftp.ncbi.nlm.nih.gov/genomes/ASSEMBLY_REPORTS/assembly_summary_genbank.txt .
@@ -70,8 +69,8 @@ Overview of genomes in NCBI as of Oct. 16 2023
 \- Look up his trunk!  
 \- Yeah, it's hidden in his trousers!  
 
- Monthy Python, <i>The meaning of Life </i> 
+ Monthy Python, The Meaning of Life </i> 
 
 --- 
 
-"All the key words in this explanation, by the way, are totally misleading due to the everyday quirks of language " - Don DeLillo, <i> Ratner's Star </i>
+"All the keywords in this explanation, by the way, are totally misleading due to the everyday quirks of language " - Don DeLillo, <i> Ratner's Star </i>
