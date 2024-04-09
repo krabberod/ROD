@@ -1,15 +1,15 @@
 #  Ribosomal Operon Database (ROD)
 
-This is the future home for the **Ribosomal Operon Database (ROD)**.  It is still in it's early stages and there are bound to be some error
+This is the future home for the **Ribosomal Operon Database (ROD)**.  It is still in its early stages and there are bound to be some error
 
 ## Updates 23.02.2023
 - Plans for the next version (nicknamed **ROD Stewart**): update and clean some of the taxonomy and provide more statistics.
 - We also have plans for testing different clustering strategies to see how real Operons when treated with common clustering approaches used in many meatbarcoding studies. 
 ## Updates 13.02.2023 
 ### ROD v0.4
-- **Golden ROD** is born. 69k glorious whole operons from 11k genomes in their full length! More stats coming...  
+- **Golden ROD** is born. 69k glorious whole operons sequence variants from 11k genomes in their full length! More stats coming...  
 - Fasta and a Tibble in .rds format 
-
+ba
 ---
 ### Old stuff
 - *(Early February 2024)* The first version of the database has been uploaded [ROD v0.3](./ROD_v0.3.fasta.gz). For now, it is a fasta file with ribosomal sequences, and all the info is in the header. This version contains a set of **near**-full-length ribosomal operons. It contains 104k operons, representing 16k genomes fished from 35k downloaded from NCBI. The operons span at least 4000 bp. But some lack the beginning of 18S others the end of 28S (and sadly some lack both). 
