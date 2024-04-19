@@ -3,6 +3,11 @@
 This is the future home for the **Ribosomal Operon Database (ROD)**.  It is still in its early stages and there are bound to be some errors.  
 The current release is ROD v1.0 - Golden Rod  
 [![DOI](https://zenodo.org/badge/730400345.svg)](https://zenodo.org/doi/10.5281/zenodo.10948219)
+
+### File description
+There are three files associated with the database (all in different formats for convenience):
+- _Genome Statistics_: These files 
+
   
 ![](./Images/ROD_v1.0.png)
   
