@@ -3,7 +3,9 @@
 This is the future home for the **Ribosomal Operon Database (ROD)**.  It is still in its early stages and there are bound to be some errors.  
 The current release is ROD v1.0 - Golden Rod  
 [![DOI](https://zenodo.org/badge/730400345.svg)](https://zenodo.org/doi/10.5281/zenodo.10948219)
-
+  
+![](./Images/ROD_v1.0.png)
+  
 ---
 ## Updates 19.04.2023
 - Updated to Version v1.0
@@ -49,7 +51,7 @@ Overview of genomes in NCBI as of Oct. 16 2023
 
 ***
 
-![](./Images/ROD_v1.0.png)
+
 
 
 --- 
