@@ -5,8 +5,9 @@ The current release is ROD v1.0 - Golden Rod
 [![DOI](https://zenodo.org/badge/730400345.svg)](https://zenodo.org/doi/10.5281/zenodo.10948219)
 
 ### File description
-There are three files associated with the database (all in different formats for convenience):
-- _Genome Statistics_: These files 
+There are three files dataframes associated with the database ( all in flat tab-separated format, and as .rds objects for R):
+- _Genome Statistics_: statistics based on the genome assemblies. Contains the number of copies pr. genome, the number of operon variants (see paper for definition), length distribution and genetic distance statistics. 
+- _Operon variants_: statistics based on the **variant** from the genomes, i.e. it has multiple entries for the genomes with multiple variants, one for each variant.   
 
   
 ![](./Images/ROD_v1.0.png)
@@ -57,7 +58,7 @@ Overview of genomes in NCBI as of Oct. 16 2023
 ***
 
 
-
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkrabberod%2FROD&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 --- 
 
