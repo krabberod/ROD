@@ -13,16 +13,19 @@ https://www.biorxiv.org/content/10.1101/2024.04.19.590225v1
 
 
 ### File description
-There are three files dataframes associated with the database ( all in flat tab-separated format, and as .rds objects for R):
+There are three files associated with the database (all in flat tab-separated format, and as .rds objects for R):
 - _Genome Statistics_: statistics based on the genome assemblies. Contains the number of copies pr. genome, the number of operon variants (see paper for definition), length distribution and genetic distance statistics. 
 - _Operon variants_: statistics based on the **variant** from the genomes, i.e. it has multiple entries for the genomes with multiple variants, one for each variant.   
-
   
 ![](./Images/ROD_v1.0.png)
-  
+
+---
+### To Do: 
+- Add explanations for all the statistcs and columns in the files.
+- Add scripts used in the paper to calculate statistics and make figures
 ---
 ## Updates 19.04.2023
-- Updated to Version v1.0
+- Updated to Version *v1.0*
 ## Updates 23.02.2023
 - Plans for the next version (nicknamed **ROD Stewart**): update and clean some of the taxonomy and provide more statistics.
 - We also have plans for testing different clustering strategies to see how real Operons when treated with common clustering approaches used in many metabarcoding studies. 
