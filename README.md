@@ -24,6 +24,9 @@ There are three files associated with the database (all in flat tab-separated fo
 - Add explanations for all the statistcs and columns in the files.
 - Add scripts used in the paper to calculate statistics and make figures
 ---
+## Updates 24.04.2023
+-  Updated to Version *v1.1*
+-  Corrected taxonomy for 8 entries of Cryptococcus with the a wrong _subdivision_ assignment
 ## Updates 19.04.2023
 - Updated to Version *v1.0*
 ## Updates 23.02.2023
