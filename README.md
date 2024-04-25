@@ -2,23 +2,21 @@
 
 This is the future home for the **Ribosomal Operon Database (ROD)**.  It is still in its early stages and there are bound to be some errors.  
 The current release is ROD v1.1 - Golden Rod   
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.11060492.svg)](https://doi.org/10.5281/zenodo.11060492)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.11060492.svg)][def]
 
-
-A preprint is available on bioRxiv: 
+### A preprint is available on bioRxiv: 
 **The Ribosomal Operon Database (ROD): A full-length rDNA operon database extracted from genome assemblies**, _Anders K. Krabberød, Embla Stokke, Ella Thoen, Inger Skrede, Håvard Kauserud_
 
 https://www.biorxiv.org/content/10.1101/2024.04.19.590225v1
 
+The database contains full-length ribosomal operons extracted from genome assemblies. The database is based on the genome assemblies from NCBI, and the operons are extracted from the assemblies. The database currently contains 69,480 operon variants from more than 11,935 genomes. 
 
-
-
-### File description
+### File Description
 There are three files associated with the database (all in flat tab-separated format, and as .rds objects for R):
 - _Genome Statistics_: statistics based on the genome assemblies. Contains the number of copies pr. genome, the number of operon variants (see paper for definition), length distribution and genetic distance statistics. 
 - _Operon variants_: statistics based on the **variant** from the genomes, i.e. it has multiple entries for the genomes with multiple variants, one for each variant.   
   
-![](./Images/ROD_v1.0.png)
+![./Images/ROD_v1.0.png][def2]
 
 ---
 ### To Do: 
@@ -27,7 +25,8 @@ There are three files associated with the database (all in flat tab-separated fo
 ---
 ## Updates 24.04.2023
 -  Updated to Version *v1.1*
--  Corrected taxonomy for 8 entries of Cryptococcus with a wrong _subdivision__ assignment
+-  Corrected taxonomy for 8 entries of Cryptococcus with a wrong _subdivision__ assignment. 
+
 ## Updates 19.04.2023
 - Updated to Version *v1.0*
 ## Updates 23.02.2023
@@ -57,17 +56,18 @@ Overview of genomes in NCBI as of Oct. 16 2023
 ```
 ##  See ftp://ftp.ncbi.nlm.nih.gov/genomes/README_assembly_summary.txt
 ## This is from column 25: 
-  16538 archaea
-1779617 bacteria
   16572 fungi
    6249 invertebrate
    7232 metagenomes
-   7593 other (???)
+   7593 other # Not included in ROD
    3604 plant
    1978 protozoa
    2854 vertebrate_mammalian
    3746 vertebrate_other
-  80657 viral
+  80657 viral # Not included in ROD
+  16538 archaea # Not included in ROD
+1779617 bacteria # Not included in ROD
+
 ```
 
 ***
@@ -78,3 +78,6 @@ Overview of genomes in NCBI as of Oct. 16 2023
 --- 
 
 "All the keywords in this explanation, by the way, are totally misleading due to the everyday quirks of language " - Don DeLillo, <i> Ratner's Star </i>
+
+[def]: https://doi.org/10.5281/zenodo.11060492
+[def2]: ./Images/ROD_v1.0.png
