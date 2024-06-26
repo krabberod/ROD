@@ -51,14 +51,14 @@ The main source for data is the genome assemblies from NCBI, downloaded Medio 20
 rsync -t -v rsync://ftp.ncbi.nlm.nih.gov/genomes/ASSEMBLY_REPORTS/assembly_summary_genbank.txt .
 ```
 
-Overview of genomes in NCBI as of Oct. 16 2023
+Overview of genomes in NCBI as of Dec. 2023
 
 ```
-##  See ftp://ftp.ncbi.nlm.nih.gov/genomes/README_assembly_summary.txt
+##  See rsync://ftp.ncbi.nlm.nih.gov/genomes/ASSEMBLY_REPORTS/assembly_summary_genbank.txt
 ## This is from column 25: 
   16572 fungi
    6249 invertebrate
-   7232 metagenomes
+   7232 metagenome # Not included in ROD
    7593 other # Not included in ROD
    3604 plant
    1978 protozoa
