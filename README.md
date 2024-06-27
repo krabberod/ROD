@@ -2,7 +2,8 @@
 
 This is the future home for the **Ribosomal Operon Database (ROD)**.  It is still in its early stages and there are bound to be some errors.  
 **The current release is ROD v1.2 - Golden Rod**  
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.11060492.svg)][def]
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.12558683.svg)](https://doi.org/10.5281/zenodo.12558683)
+
 
 ### A preprint is available on bioRxiv: 
 **The Ribosomal Operon Database (ROD): A full-length rDNA operon database extracted from genome assemblies**, _Anders K. Krabberød, Embla Stokke, Ella Thoen, Inger Skrede, Håvard Kauserud_
