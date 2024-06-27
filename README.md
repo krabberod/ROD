@@ -1,7 +1,7 @@
 #  Ribosomal Operon Database (ROD)
 
 This is the future home for the **Ribosomal Operon Database (ROD)**.  It is still in its early stages and there are bound to be some errors.  
-**The current release is ROD v1.2 - Golden Rod**
+**The current release is ROD v1.2 - Golden Rod**  
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.11060492.svg)][def]
 
 ### A preprint is available on bioRxiv: 
