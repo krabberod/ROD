@@ -1,7 +1,7 @@
 #  Ribosomal Operon Database (ROD)
 
 This is the future home for the **Ribosomal Operon Database (ROD)**.  It is still in its early stages and there are bound to be some errors.  
-The current release is ROD v1.1 - Golden Rod   
+**The current release is ROD v1.2 - Golden Rod**
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.11060492.svg)][def]
 
 ### A preprint is available on bioRxiv: 
@@ -16,23 +16,31 @@ There are three files associated with the database (all in flat tab-separated fo
 - _Genome Statistics_: statistics based on the genome assemblies. Contains the number of copies pr. genome, the number of operon variants (see paper for definition), length distribution and genetic distance statistics. 
 - _Operon variants_: statistics based on the **variant** from the genomes, i.e. it has multiple entries for the genomes with multiple variants, one for each variant.   
   
-![./Images/ROD_v1.0.png][def2]
+
 
 ---
+
+
+## Updates 27.06.2024
+-  Updated to **ROD v1.2**
+-  Corrected wrongly spelled Oochrophyta to the correct Ochrophyta.
+-  Added a new column to the operon variants file with an annotation stating operon is in the reference dataset or not.
+-  Added the metadata from NCBI.
 ### To Do: 
 - Add explanations for all the statistics and columns in the files.
 - Add scripts used in the paper to calculate statistics and make figures
+![./Images/ROD_v1.0.png][def2]
 ---
-## Updates 24.04.2023
+## Updates 24.04.2024
 -  Updated to Version *v1.1*
 -  Corrected taxonomy for 8 entries of Cryptococcus with a wrong _subdivision__ assignment. 
 
-## Updates 19.04.2023
+## Updates 19.04.2024
 - Updated to Version *v1.0*
-## Updates 23.02.2023
+## Updates 23.02.2024
 - Plans for the next version (nicknamed **ROD Stewart**): update and clean some of the taxonomy and provide more statistics.
 - We also have plans for testing different clustering strategies to see how real Operons when treated with common clustering approaches used in many metabarcoding studies. 
-## Updates 13.02.2023 
+## Updates 13.02.2024 
 ### ROD v0.4
 - **ROD** is born. 69k glorious whole operons sequence variants from 11k genomes in their full length! More stats coming...  
 - Fasta and a Tibble in .rds format 
