@@ -10,7 +10,7 @@ This is the future home for the **Ribosomal Operon Database (ROD)**.  It is stil
 
 https://www.biorxiv.org/content/10.1101/2024.04.19.590225v1
 
-** NEWS! ROD will soon be integrated with PR2, and it is expected to be included in the next PR2 version. **
+**NEWS! The work has been started to integrate ROD with PR2. It is expected to be included in the next version.**
 
 The database contains full-length ribosomal operons extracted from genome assemblies. The database is based on the genome assemblies from NCBI, and the operons are extracted from the assemblies. The database currently contains 69,480 operon variants from more than 11,935 genomes. 
 
