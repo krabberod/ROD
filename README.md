@@ -2,7 +2,7 @@
 
 This is the home for the **Ribosomal Operon Database (ROD)**.  
 
-The database contains full-length ribosomal operons extracted from genome assemblies. The database is based on the genome assemblies from NCBI, and the operons are extracted from the assemblies. The database currently contains 69,480 operon variants from more than 11,935 genomes.
+The database contains full-length eukaryotic ribosomal operons. The database is based on the genome assemblies from NCBI, and the operons are extracted from the assemblies. The database currently contains 69,480 operon variants from more than 11,935 genomes.
 
 ### Citation
 The database is publised in Molecular Ecology Resources. Please cite the paper if you use the database.
