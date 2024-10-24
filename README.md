@@ -5,10 +5,9 @@ This is the home for the **Ribosomal Operon Database (ROD)**.
 The database contains full-length ribosomal operons extracted from genome assemblies. The database is based on the genome assemblies from NCBI, and the operons are extracted from the assemblies. The database currently contains 69,480 operon variants from more than 11,935 genomes.
 
 ### Citation
-The database is now publised in Molecular Ecology Resources. Please cite the paper if you use the database.
+The database is publised in Molecular Ecology Resources. Please cite the paper if you use the database.
 
-_Anders K. Krabberød, Embla Stokke, Ella Thoen, Inger Skrede, Håvard Kauserud_, **The Ribosomal Operon Database (ROD): A full-length rDNA operon database extracted from genome assemblies**, Molecular Ecology Resources, 2024,
-https://doi.org/10.1111/1755-0998.14031
+**Krabberød, A. K., Stokke, E., Thoen, E., Skrede, I., & Kauserud, H.** (2024). *The Ribosomal Operon Database: A Full‐Length rDNA Operon Database Derived From Genome Assemblies*. Molecular Ecology Resources. [https://doi.org/10.1111/1755-0998.14031](https://doi.org/10.1111/1755-0998.14031) 
 
 
 **The current release is ROD v1.2 - Golden Rod**  
@@ -20,17 +19,19 @@ https://doi.org/10.1111/1755-0998.14031
 
 The database contains full-length ribosomal operons extracted from genome assemblies. The database is based on the genome assemblies from NCBI, and the operons are extracted from the assemblies. The database currently contains 69,480 operon variants from more than 11,935 genomes. 
 
-For an interactive Krona plot of the genomes in the data base see here [Krona plot](https://htmlpreview.github.io/?https://github.com/krabberod/ROD/blob/main/Krona/krona_genius.html)
+
 
 ### File Description
 There are three files associated with the database (all in flat tab-separated format, and as .rds objects for R):
 - _Genome Statistics_: statistics based on the genome assemblies. Contains the number of copies pr. genome, the number of operon variants (see paper for definition), length distribution and genetic distance statistics. 
 - _Operon variants_: statistics based on the **variant** from the genomes, i.e. it has multiple entries for the genomes with multiple variants, one for each variant.   
-  
-
+### Krona plot
+For an interactive Krona plot of the genomes in the data base see here [Krona plot](https://htmlpreview.github.io/?https://github.com/krabberod/ROD/blob/main/Krona/krona_genius.html)
 
 ---
-
+## Updates 24.19.2024
+-  The paper is now published in Molecular Ecology Resources. Please cite the paper if you use the database.
+- We are currently integrating ROD with PR2, and it will be included in the next PR2 release.
 
 ## Updates 27.06.2024
 -  Updated to **ROD v1.2**
