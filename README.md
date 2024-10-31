@@ -29,7 +29,7 @@ There are three files associated with the database (all in flat tab-separated fo
 For an interactive Krona plot of the genomes in the data base see here [Krona plot](https://htmlpreview.github.io/?https://github.com/krabberod/ROD/blob/main/Krona/krona_genius.html)
 
 ---
-## Updates 24.19.2024
+## Updates 24.10.2024
 -  The paper is now published in Molecular Ecology Resources. Please cite the paper if you use the database.
 - We are currently integrating ROD with PR2, and it will be included in the next PR2 release.
 
