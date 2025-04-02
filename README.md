@@ -1,19 +1,18 @@
 #  Ribosomal Operon Database (ROD)
 
-This is the home for the **Ribosomal Operon Database (ROD)**.  
+This is the home of the **Ribosomal Operon Database (ROD)**.  
 
 The database contains full-length eukaryotic ribosomal operons. The database is based on the genome assemblies from NCBI, and the operons are extracted from the assemblies. The database currently contains 69,480 operon variants from more than 11,935 genomes.
 
 ### Citation
 The database is publised in Molecular Ecology Resources. Please cite the paper if you use the database.
-
 **Krabberød, A. K., Stokke, E., Thoen, E., Skrede, I., & Kauserud, H.** (2024). *The Ribosomal Operon Database: A Full‐Length rDNA Operon Database Derived From Genome Assemblies*. Molecular Ecology Resources. [https://doi.org/10.1111/1755-0998.14031](https://doi.org/10.1111/1755-0998.14031) 
 
 
 **The current release is ROD v1.2 - Golden Rod**  
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.12558683.svg)](https://doi.org/10.5281/zenodo.12558683)
 
-
+**We
 
 **NEWS! The work has been started to integrate ROD with PR2. It is expected to be included in the next version.**
 
